@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Table & Design Studio",
+  "description": "A powerful utility tool to extract tabular data from images into CSV format and edit images using text prompts with Gemini 2.5 models.",
+  "requestFramePermissions": []
+}
